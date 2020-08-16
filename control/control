@@ -1,0 +1,12 @@
+Package: synergy
+Version: 1.9.0~rc3
+Architecture: amd64
+Maintainer: Symless <engineering@symless.com>
+Installed-Size: 2590
+Depends: libavahi-compat-libdnssd1 (>= 0.6.16), libc6 (>= 2.14), libcurl4 (>= 7.58.2), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.5.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.2.0), libssl1.1 (>= 1.1), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.2.99.901), libxext6, libxi6 (>= 2:1.2.99.4), libxtst6, qml-module-qtquick-controls (>= 5.0.2), qml-module-qtquick-layouts (>= 5.0.2), qml-module-qtquick-dialogs (>= 5.0.2), qml-module-qtquick2 (>= 5.0.2)
+Section: utils
+Priority: optional
+Homepage: https://symless.com/synergy
+Description: Keyboard and mouse sharing solution
+ Synergy allows you to share one mouse and keyboard between multiple computers.
+ Work seamlessly across Windows, macOS and Linux.
