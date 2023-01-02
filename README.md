@@ -2,6 +2,8 @@
 
 Synergy 1.9.1 for Ubuntu 18.0 and later
 
+Use a single keyboard and mouse between multiple computers to control nearby computers, and work seamlessly between them.
+
 Installation Instruction
 
 git clone --recursive https://github.com/shuwang1/synergy.git
