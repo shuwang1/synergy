@@ -8,7 +8,7 @@ Installation Instruction
 
 git clone --recursive https://github.com/shuwang1/synergy.git
 
-cd ./synergy && sudo dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb  synergy_1.9.1.modified.deb
+cd ./synergy && sudo dpkg -i libssl1.1_1.1.1f-1ubuntu2.20_amd64.deb  synergy_1.9.1.modified.deb
 
 
 
